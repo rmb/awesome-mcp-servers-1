@@ -292,6 +292,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 ## Community Servers
 
+- **[OmniForce](https://github.com/rmb/omniforce-mcp)** - t
 - **[OmniForce](https://github.com/rmb/omniforce-mcp)** - GEO & AI-search visibility: audit any site's AI-readiness and track prompts, competitors, and citations.
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
